@@ -14,19 +14,31 @@ msgstr ""
 "Plural-Forms: \n"
 
 #: src/components/Documentation/index.tsx
-msgid "'Nounders' are the group of ten builders that initiated Nouns. Here are the Nounders:"
+msgid "'Lil Bird' are the group of ten builders that initiated Lil Moonbirds. Here are the Birb:"
 msgstr ""
+
+#: src/components/Documentation/index.tsx
+#~ msgid "'Nounders' are the group of ten builders that initiated Nouns. Here are the Nounders:"
+#~ msgstr ""
 
 #: src/components/ByLineHoverCard/index.tsx
 msgid "... and {0} more"
 msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "100% of Noun auction proceeds are trustlessly sent to the treasury."
+msgid "100% of Lil Moonbirds auction proceeds are trustlessly sent to the treasury."
 msgstr ""
+
+#: src/components/Documentation/index.tsx
+#~ msgid "100% of Noun auction proceeds are trustlessly sent to the treasury."
+#~ msgstr ""
 
 #: src/pages/Nounders/index.tsx
 msgid "3.5 artists, 6.5 technologists"
+msgstr ""
+
+#: src/components/Documentation/index.tsx
+msgid "30 Minutes Auctions"
 msgstr ""
 
 #: src/pages/NotFound/index.tsx
@@ -103,6 +115,10 @@ msgstr ""
 msgid "Against"
 msgstr ""
 
+#: src/components/Documentation/index.tsx
+msgid "All Lil Moonbirds are members of Lil Moonbirds DAO."
+msgstr ""
+
 #: src/components/NounderNounContent/index.tsx
 msgid "All Noun auction proceeds are sent to the"
 msgstr ""
@@ -112,8 +128,8 @@ msgid "All Noun auction proceeds are sent to the Nouns DAO. For this reason, we,
 msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "All Nouns are members of Nouns DAO."
-msgstr ""
+#~ msgid "All Nouns are members of Nouns DAO."
+#~ msgstr ""
 
 #: src/pages/CreateProposal/index.tsx
 msgid "All Proposals"
@@ -121,6 +137,10 @@ msgstr ""
 
 #: src/components/DelegationCandidateInfo/index.tsx
 msgid "Already has"
+msgstr ""
+
+#: src/components/Documentation/index.tsx
+msgid "An expansion DAO based on {moonbirdsDAO}, Lil Moonbirds DAO works to create a new layer within the Moonbirds ecosystem. By expanding the ecosystem, Lil Moonbirds DAO aims at exposing more people to Moonbirds."
 msgstr ""
 
 #: src/components/ProposalTransactionFormModal/index.tsx
@@ -149,8 +169,12 @@ msgid "Background"
 msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "Because 100% of Noun auction proceeds are sent to Nouns DAO, Nounders have chosen to compensate themselves with Nouns. Every 10th Noun for the first 5 years of the project (Noun ids #0, #10, #20, #30 and so on) will be automatically sent to the Nounder's multisig to be vested and shared among the founding members of the project."
+msgid "Because 100% of Lil Moonbirds auction proceeds are sent to Lil Moonbirds DAO, Lil Birb have chosen to compensate themselves with Lil Moonbirds. Every 10th Lil Moonbirds for the first 5 years of the project (Lil Moonbirds ids #0, #10, #20, #30 and so on) will be automatically sent to the Lil Birb's multisig to be vested and shared among the founding members of the project."
 msgstr ""
+
+#: src/components/Documentation/index.tsx
+#~ msgid "Because 100% of Noun auction proceeds are sent to Nouns DAO, Nounders have chosen to compensate themselves with Nouns. Every 10th Noun for the first 5 years of the project (Noun ids #0, #10, #20, #30 and so on) will be automatically sent to the Nounder's multisig to be vested and shared among the founding members of the project."
+#~ msgstr ""
 
 #: src/components/Bid/index.tsx
 #: src/components/Bid/index.tsx
@@ -242,8 +266,8 @@ msgid "Connect your wallet"
 msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "Consequently, the Nouns Foundation anticipates being the steward of the veto power until Nouns DAO is ready to implement an alternative, and therefore wishes to clarify the conditions under which it would exercise this power."
-msgstr ""
+#~ msgid "Consequently, the Nouns Foundation anticipates being the steward of the veto power until Nouns DAO is ready to implement an alternative, and therefore wishes to clarify the conditions under which it would exercise this power."
+#~ msgstr ""
 
 #: src/components/CreateProposalButton/index.tsx
 #: src/pages/CreateProposal/index.tsx
@@ -251,8 +275,8 @@ msgid "Create Proposal"
 msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "Cryptopunks"
-msgstr ""
+#~ msgid "Cryptopunks"
+#~ msgstr ""
 
 #: src/components/CurrentDelegatePannel/index.tsx
 msgid "Current Delegate"
@@ -267,8 +291,8 @@ msgid "DAO"
 msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "Daily Auctions"
-msgstr ""
+#~ msgid "Daily Auctions"
+#~ msgstr ""
 
 #: src/components/NounProfileVoteRow/index.tsx
 #: src/components/ProposalStatus/index.tsx
@@ -322,12 +346,20 @@ msgid "Docs"
 msgstr ""
 
 #: src/components/Banner/index.tsx
-msgid "EVERY DAY,"
+msgid "EVERY 30 MINUTES,"
+msgstr ""
+
+#: src/components/Banner/index.tsx
+#~ msgid "EVERY DAY,"
+#~ msgstr ""
+
+#: src/components/Documentation/index.tsx
+msgid "Each time an auction is settled, the settlement transaction will also cause a new Lil Moonbirds to be minted and a new 30 minutes auction to begin."
 msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "Each time an auction is settled, the settlement transaction will also cause a new Noun to be minted and a new 24 hour auction to begin."
-msgstr ""
+#~ msgid "Each time an auction is settled, the settlement transaction will also cause a new Noun to be minted and a new 24 hour auction to begin."
+#~ msgstr ""
 
 #: src/pages/Vote/index.tsx
 msgid "Ended"
@@ -459,6 +491,10 @@ msgid "Help mint the next Noun"
 msgstr ""
 
 #: src/components/Documentation/index.tsx
+msgid "In addition to the precautions taken by Compound Governance, Lil Birb have given themselves a special veto right to ensure that no malicious proposals can be passed while the Lil Moonbirds supply is low. This veto right will only be used if an obviously harmful governance proposal has been passed, and is intended as a last resort."
+msgstr ""
+
+#: src/components/Documentation/index.tsx
 #~ msgid "In addition to the precautions taken by Compound Governance, Nounders have given themselves a special veto right to ensure that no malicious proposals can be passed while the Noun supply is low. This veto right will only be used if an obviously harmful governance proposal has been passed, and is intended as a last resort."
 #~ msgstr ""
 
@@ -475,11 +511,79 @@ msgid "Learn more"
 msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "Learn more below, or start creating Nouns off-chain using the {playgroundLink}."
+msgid "Learn more below, or start creating Lil Moonbirds off-chain using the {playgroundLink}."
+msgstr ""
+
+#: src/components/Documentation/index.tsx
+#~ msgid "Learn more below, or start creating Nouns off-chain using the {playgroundLink}."
+#~ msgstr ""
+
+#: src/components/Documentation/index.tsx
+msgid "Lil Birb distributions don't interfere with the cadence of 30 minute auctions. Lil Moonbirds are sent directly to the Lil Birb's Multisig, and auctions continue on schedule with the next available Lil Moonbirds ID."
+msgstr ""
+
+#: src/components/Documentation/index.tsx
+msgid "Lil Birb receive rewards in the form of Lil Moonbirds (10% of supply for first 5 years)."
+msgstr ""
+
+#: src/components/Documentation/index.tsx
+msgid "Lil Birb will proveably revoke this veto right when they deem it safe to do so. This decision will be based on a healthy Lil Moonbirds distribution and a community that is engaged in the governance process."
+msgstr ""
+
+#: src/components/Documentation/index.tsx
+msgid "Lil Birb's Reward"
+msgstr ""
+
+#: src/components/AuctionActivityNounTitle/index.tsx
+msgid "Lil Moonbird {0}"
+msgstr ""
+
+#: src/components/Documentation/index.tsx
+msgid "Lil Moonbirds DAO"
+msgstr ""
+
+#: src/components/Documentation/index.tsx
+msgid "Lil Moonbirds DAO uses a fork of {compoundGovLink}."
+msgstr ""
+
+#: src/components/Documentation/index.tsx
+msgid "Lil Moonbirds DAO utilizes a fork of {compoundGovLink} and is the main governing body of the Lil Moonbirds ecosystem. The Lil Moonbirds DAO treasury receives 100% of ETH proceeds from daily Lil Moonbirds auctions. Each Lil Moonbirds is an irrevocable member of Lil Moonbirds DAO and entitled to one vote in all governance matters. Lil Moonbirds votes are non-transferable (if you sell your Lil Moonbirds the vote goes with it) but delegatable, which means you can assign your vote to someone else as long as you own your Lil Moonbirds."
+msgstr ""
+
+#: src/components/Documentation/index.tsx
+msgid "Lil Moonbirds Seeder Contract"
+msgstr ""
+
+#: src/components/Documentation/index.tsx
+msgid "Lil Moonbirds are generated randomly based Ethereum block hashes. There are no 'if' statements or other rules governing Lil Moonbirds trait scarcity, which makes all Lil Moonbirds equally rare. As of this writing, Lil Moonbirds are made up of:"
+msgstr ""
+
+#: src/components/Documentation/index.tsx
+msgid "Lil Moonbirds are just like combination of Moonbirds and Nouns mechanics !"
+msgstr ""
+
+#: src/components/Documentation/index.tsx
+msgid "Lil Moonbirds are stored directly on Ethereum and do not utilize pointers to other networks such as IPFS. This is possible because Lil Moonbird parts are compressed and stored on-chain using a custom run-length encoding (RLE), which is a form of lossless compression."
+msgstr ""
+
+#: src/components/Documentation/index.tsx
+msgid "Lil Moonbirds artwork is in the {publicDomainLink}."
+msgstr ""
+
+#: src/components/Documentation/index.tsx
+msgid "Lil Moonbirds is equal to one vote."
 msgstr ""
 
 #: src/components/NounInfoRowHolder/index.tsx
 msgid "Loading..."
+msgstr ""
+
+#: src/components/Documentation/index.tsx
+msgid "Moonbirds DAO receive rewards in the form of Lil Moonbirds (10% of supply for first 5 years)."
+msgstr ""
+
+#: src/components/Documentation/index.tsx
+msgid "Moonbirds Traits"
 msgstr ""
 
 #: src/components/ProposalTransactionFormModal/index.tsx
@@ -491,8 +595,12 @@ msgid "No arguments required"
 msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "No explicit rules exist for attribute scarcity; all Nouns are equally rare."
+msgid "No explicit rules exist for attribute scarcity; all Lil Moonbirds are equally rare."
 msgstr ""
+
+#: src/components/Documentation/index.tsx
+#~ msgid "No explicit rules exist for attribute scarcity; all Nouns are equally rare."
+#~ msgstr ""
 
 #: src/components/Proposals/index.tsx
 msgid "No proposals found"
@@ -509,32 +617,32 @@ msgid "Noun"
 msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "Noun Seeder Contract"
-msgstr ""
+#~ msgid "Noun Seeder Contract"
+#~ msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "Noun Traits"
-msgstr ""
+#~ msgid "Noun Traits"
+#~ msgstr ""
 
 #: src/components/CurrentDelegatePannel/index.tsx
 msgid "Noun votes are not transferable, but are <0>delegatable</0>, which means you can assign your vote to someone else as long as you own your Noun."
 msgstr ""
 
 #: src/components/AuctionActivityNounTitle/index.tsx
-msgid "Noun {0}"
-msgstr ""
+#~ msgid "Noun {0}"
+#~ msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "Nounder distributions don't interfere with the cadence of 24 hour auctions. Nouns are sent directly to the Nounder's Multisig, and auctions continue on schedule with the next available Noun ID."
-msgstr ""
+#~ msgid "Nounder distributions don't interfere with the cadence of 24 hour auctions. Nouns are sent directly to the Nounder's Multisig, and auctions continue on schedule with the next available Noun ID."
+#~ msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "Nounder's Reward"
-msgstr ""
+#~ msgid "Nounder's Reward"
+#~ msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "Nounders receive rewards in the form of Nouns (10% of supply for first 5 years)."
-msgstr ""
+#~ msgid "Nounders receive rewards in the form of Nouns (10% of supply for first 5 years)."
+#~ msgstr ""
 
 #: src/components/Documentation/index.tsx
 #~ msgid "Nounders will proveably revoke this veto right when they deem it safe to do so. This decision will be based on a healthy Noun distribution and a community that is engaged in the governance process."
@@ -552,39 +660,38 @@ msgstr ""
 msgid "Nouns Auction House"
 msgstr ""
 
-#: src/components/Documentation/index.tsx
 #: src/components/NounderNounContent/index.tsx
 #: src/pages/Governance/index.tsx
 msgid "Nouns DAO"
 msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "Nouns DAO uses a fork of {compoundGovLink}."
-msgstr ""
+#~ msgid "Nouns DAO uses a fork of {compoundGovLink}."
+#~ msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "Nouns DAO utilizes a fork of {compoundGovLink} and is the main governing body of the Nouns ecosystem. The Nouns DAO treasury receives 100% of ETH proceeds from daily Noun auctions. Each Noun is an irrevocable member of Nouns DAO and entitled to one vote in all governance matters. Noun votes are non-transferable (if you sell your Noun the vote goes with it) but delegatable, which means you can assign your vote to someone else as long as you own your Noun."
-msgstr ""
+#~ msgid "Nouns DAO utilizes a fork of {compoundGovLink} and is the main governing body of the Nouns ecosystem. The Nouns DAO treasury receives 100% of ETH proceeds from daily Noun auctions. Each Noun is an irrevocable member of Nouns DAO and entitled to one vote in all governance matters. Noun votes are non-transferable (if you sell your Noun the vote goes with it) but delegatable, which means you can assign your vote to someone else as long as you own your Noun."
+#~ msgstr ""
 
 #: src/pages/Playground/index.tsx
 msgid "Nouns Protocol"
 msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "Nouns are an experimental attempt to improve the formation of on-chain avatar communities. While projects such as {cryptopunksLink} have attempted to bootstrap digital community and identity, Nouns attempt to bootstrap identity, community, governance, and a treasury that can be used by the community."
-msgstr ""
+#~ msgid "Nouns are an experimental attempt to improve the formation of on-chain avatar communities. While projects such as {cryptopunksLink} have attempted to bootstrap digital community and identity, Nouns attempt to bootstrap identity, community, governance, and a treasury that can be used by the community."
+#~ msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "Nouns are generated randomly based Ethereum block hashes. There are no 'if' statements or other rules governing Noun trait scarcity, which makes all Nouns equally rare. As of this writing, Nouns are made up of:"
-msgstr ""
+#~ msgid "Nouns are generated randomly based Ethereum block hashes. There are no 'if' statements or other rules governing Noun trait scarcity, which makes all Nouns equally rare. As of this writing, Nouns are made up of:"
+#~ msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "Nouns are stored directly on Ethereum and do not utilize pointers to other networks such as IPFS. This is possible because Noun parts are compressed and stored on-chain using a custom run-length encoding (RLE), which is a form of lossless compression."
-msgstr ""
+#~ msgid "Nouns are stored directly on Ethereum and do not utilize pointers to other networks such as IPFS. This is possible because Noun parts are compressed and stored on-chain using a custom run-length encoding (RLE), which is a form of lossless compression."
+#~ msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "Nouns artwork is in the {publicDomainLink}."
-msgstr ""
+#~ msgid "Nouns artwork is in the {publicDomainLink}."
+#~ msgstr ""
 
 #: src/pages/Governance/index.tsx
 msgid "Nouns govern <0>Nouns DAO</0>. Nouns can vote on proposals or delegate their vote to a third party. A minimum of <1>{nounsRequired} {0}</1> is required to submit proposals."
@@ -595,20 +702,28 @@ msgid "Now has"
 msgstr ""
 
 #: src/components/Banner/index.tsx
-msgid "ONE NOUN,"
+msgid "ONE LIL MOONBIRDS,"
 msgstr ""
+
+#: src/components/Banner/index.tsx
+#~ msgid "ONE NOUN,"
+#~ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "On-Chain Artwork"
 msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "One Noun is equal to one vote."
+msgid "One Lil Moonbirds is trustlessly auctioned every 30 minutes, forever."
 msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "One Noun is trustlessly auctioned every 24 hours, forever."
-msgstr ""
+#~ msgid "One Noun is equal to one vote."
+#~ msgstr ""
+
+#: src/components/Documentation/index.tsx
+#~ msgid "One Noun is trustlessly auctioned every 24 hours, forever."
+#~ msgstr ""
 
 #: src/pages/Playground/index.tsx
 msgid "Only 32x32 PNG images are accepted"
@@ -721,8 +836,12 @@ msgid "Settle Auction"
 msgstr ""
 
 #: src/components/SettleManuallyBtn/index.tsx
-msgid "Settle manually"
+msgid "Settle auction"
 msgstr ""
+
+#: src/components/SettleManuallyBtn/index.tsx
+#~ msgid "Settle manually"
+#~ msgstr ""
 
 #: src/components/Bid/index.tsx
 msgid "Settled auction successfully!"
@@ -806,8 +925,16 @@ msgid "Thank you for voting."
 msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "The Noun Seeder contract is used to determine Noun traits during the minting process. The seeder contract can be replaced to allow for future trait generation algorithm upgrades. Additionally, it can be locked by the Nouns DAO to prevent any future updates. Currently, Noun traits are determined using pseudo-random number generation:"
+msgid "The Lil Moonbirds Seeder contract is used to determine Lil Moonbirds traits during the minting process. The seeder contract can be replaced to allow for future trait generation algorithm upgrades. Additionally, it can be locked by the Lil Moonbirds DAO to prevent any future updates. Currently, Lil Moonbirds traits are determined using pseudo-random number generation:"
 msgstr ""
+
+#: src/components/Documentation/index.tsx
+msgid "The Lil Moonbirdss Auction Contract will act as a self-sufficient Lil Moonbirds generation and distribution mechanism, auctioning one Lil Moonbirds every 30 minutes, forever. 100% of auction proceeds (ETH) are automatically deposited in the Lil Moonbirdss DAO treasury, where they are governed by Lil Moonbirds owners."
+msgstr ""
+
+#: src/components/Documentation/index.tsx
+#~ msgid "The Noun Seeder contract is used to determine Noun traits during the minting process. The seeder contract can be replaced to allow for future trait generation algorithm upgrades. Additionally, it can be locked by the Nouns DAO to prevent any future updates. Currently, Noun traits are determined using pseudo-random number generation:"
+#~ msgstr ""
 
 #: src/pages/Nounders/index.tsx
 msgid "The Nounders"
@@ -818,16 +945,16 @@ msgid "The Nounders reward is intended as compensation for our pre and post-laun
 msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "The Nouns Auction Contract will act as a self-sufficient Noun generation and distribution mechanism, auctioning one Noun every 24 hours, forever. 100% of auction proceeds (ETH) are automatically deposited in the Nouns DAO treasury, where they are governed by Noun owners."
-msgstr ""
+#~ msgid "The Nouns Auction Contract will act as a self-sufficient Noun generation and distribution mechanism, auctioning one Noun every 24 hours, forever. 100% of auction proceeds (ETH) are automatically deposited in the Nouns DAO treasury, where they are governed by Noun owners."
+#~ msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "The Nouns Foundation considers the veto an emergency power that should not be exercised in the normal course of business. The Nouns Foundation will veto proposals that introduce non-trivial legal or existential risks to the Nouns DAO or the Nouns Foundation, including (but not necessarily limited to) proposals that:"
-msgstr ""
+#~ msgid "The Nouns Foundation considers the veto an emergency power that should not be exercised in the normal course of business. The Nouns Foundation will veto proposals that introduce non-trivial legal or existential risks to the Nouns DAO or the Nouns Foundation, including (but not necessarily limited to) proposals that:"
+#~ msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "The Nouns community has undertaken a preliminary exploration of proposal veto alternatives (‘rage quit’ etc.), but it is now clear that this is a difficult problem that will require significantly more research, development and testing before a satisfactory solution can be implemented."
-msgstr ""
+#~ msgid "The Nouns community has undertaken a preliminary exploration of proposal veto alternatives (‘rage quit’ etc.), but it is now clear that this is a difficult problem that will require significantly more research, development and testing before a satisfactory solution can be implemented."
+#~ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "The compressed parts are efficiently converted into a single base64 encoded SVG image on-chain. To accomplish this, each part is decoded into an intermediate format before being converted into a series of SVG rects using batched, on-chain string concatenation. Once the entire SVG has been generated, it is base64 encoded."
@@ -838,16 +965,20 @@ msgid "The playground was built using the {nounsProtocolLink}. Noun's traits are
 msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "The proposal veto right was initially envisioned as a temporary solution to the problem of ‘51% attacks’ on the Nouns DAO treasury. While Nounders initially believed that a healthy distribution of Nouns would be sufficient protection for the DAO, a more complete understanding of the incentives and risks has led to general consensus within the Nounders, the Nouns Foundation, and the wider community that a more robust game-theoretic solution should be implemented before the right is removed."
+#~ msgid "The proposal veto right was initially envisioned as a temporary solution to the problem of ‘51% attacks’ on the Nouns DAO treasury. While Nounders initially believed that a healthy distribution of Nouns would be sufficient protection for the DAO, a more complete understanding of the incentives and risks has led to general consensus within the Nounders, the Nouns Foundation, and the wider community that a more robust game-theoretic solution should be implemented before the right is removed."
+#~ msgstr ""
+
+#: src/components/Documentation/index.tsx
+msgid "The treasury is controlled exclusively by Lil Moonbirds via governance."
 msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "The treasury is controlled exclusively by Nouns via governance."
-msgstr ""
+#~ msgid "The treasury is controlled exclusively by Nouns via governance."
+#~ msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "There are unfortunately no algorithmic solutions for making these determinations in advance (if there were, the veto would not be required), and proposals must be considered on a case by case basis."
-msgstr ""
+#~ msgid "There are unfortunately no algorithmic solutions for making these determinations in advance (if there were, the veto would not be required), and proposals must be considered on a case by case basis."
+#~ msgstr ""
 
 #: src/components/VoteModal/index.tsx
 msgid "There was an error voting for your account."
@@ -874,8 +1005,12 @@ msgid "Tip:"
 msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "Trait generation is not truly random. Traits can be predicted when minting a Noun on the pending block."
+msgid "Trait generation is not truly random. Traits can be predicted when minting a Lil Moonbirds on the pending block."
 msgstr ""
+
+#: src/components/Documentation/index.tsx
+#~ msgid "Trait generation is not truly random. Traits can be predicted when minting a Noun on the pending block."
+#~ msgstr ""
 
 #: src/components/Bid/index.tsx
 #: src/components/Bid/index.tsx
@@ -946,8 +1081,8 @@ msgid "View on Etherscan"
 msgstr ""
 
 #: src/components/Bid/index.tsx
-msgid "Vote for the next Noun"
-msgstr ""
+#~ msgid "Vote for the next Noun"
+#~ msgstr ""
 
 #: src/components/VoteModal/index.tsx
 msgid "Vote on Prop {0}"
@@ -987,8 +1122,12 @@ msgid "What now?"
 msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "While settlement is most heavily incentivized for the winning bidder, it can be triggered by anyone, allowing the system to trustlessly auction Nouns as long as Ethereum is operational and there are interested bidders."
+msgid "While settlement is most heavily incentivized for the winning bidder, it can be triggered by anyone, allowing the system to trustlessly auction Lil Moonbirds as long as Ethereum is operational and there are interested bidders."
 msgstr ""
+
+#: src/components/Documentation/index.tsx
+#~ msgid "While settlement is most heavily incentivized for the winning bidder, it can be triggered by anyone, allowing the system to trustlessly auction Nouns as long as Ethereum is operational and there are interested bidders."
+#~ msgstr ""
 
 #: src/components/DelegationCandidateInfo/index.tsx
 msgid "Will have"
@@ -1016,16 +1155,28 @@ msgid "You already have an active or pending proposal"
 msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "You can experiment with off-chain Noun generation at the {playgroundLink}."
+msgid "You can experiment with off-chain Lil Moonbirds generation at the {playgroundLink}."
+msgstr ""
+
+#: src/components/Documentation/index.tsx
+#~ msgid "You can experiment with off-chain Noun generation at the {playgroundLink}."
+#~ msgstr ""
+
+#: src/components/SettleManuallyBtn/index.tsx
+msgid "You can settle auction in 1 minute"
 msgstr ""
 
 #: src/components/SettleManuallyBtn/index.tsx
-msgid "You can settle manually in 1 minute"
+msgid "You can settle auction in {0} minutes"
 msgstr ""
 
 #: src/components/SettleManuallyBtn/index.tsx
-msgid "You can settle manually in {0} minutes"
-msgstr ""
+#~ msgid "You can settle manually in 1 minute"
+#~ msgstr ""
+
+#: src/components/SettleManuallyBtn/index.tsx
+#~ msgid "You can settle manually in {0} minutes"
+#~ msgstr ""
 
 #: src/components/CreateProposalButton/index.tsx
 msgid "You don't have enough votes to submit a proposal"

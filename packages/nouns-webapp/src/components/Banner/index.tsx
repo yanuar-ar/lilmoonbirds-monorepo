@@ -8,22 +8,18 @@ import { Trans } from '@lingui/macro';
 const Banner = () => {
   return (
     <Section fullWidth={false} className={classes.bannerSection}>
-      <Col lg={6}>
-        <div className={classes.wrapper}>
-          <h1>
-            <Trans>ONE NOUN,</Trans>
-            <br />
-            <Trans>EVERY DAY,</Trans>
-            <br />
-            <Trans>FOREVER.</Trans>
-          </h1>
-        </div>
-      </Col>
-      <Col lg={6}>
-        <div style={{ padding: '2rem' }}>
-          <Noun imgPath={calendar_noun} alt="noun" />
-        </div>
-      </Col>
+      <div className={classes.wrapper}>
+        <h1 style={{ textAlign: 'center' }}>
+          <Trans>ONE LIL MOONBIRDS,</Trans>
+          <br />
+          <Trans>EVERY 30 MINUTES,</Trans>
+          <br />
+          <Trans>FOREVER.</Trans>
+        </h1>
+      </div>
+      <div style={{ padding: '2rem' }}>
+        <Noun imgPath={calendar_noun} alt="noun" />
+      </div>
     </Section>
   );
 };
